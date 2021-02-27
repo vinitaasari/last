@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262.988" height="210" viewBox="0 0 262.988 210">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:#03579c}.cls-1{opacity:.098}
+        </style>
+    </defs>
+    <g id="Group_19787" transform="translate(15740.445 -3004.058)">
+        <g id="Group_19783" transform="translate(-15739.999 3004)">
+            <circle id="Ellipse_1223" cx="32.5" cy="32.5" r="32.5" class="cls-1" transform="translate(176.554 10.057)"/>
+            <ellipse id="Ellipse_1222" cx="22" cy="22.5" class="cls-1" rx="22" ry="22.5" transform="translate(214.554 155.058)"/>
+            <circle id="Ellipse_1234" cx="22.5" cy="22.5" r="22.5" class="cls-1" transform="translate(-.446 53.057)"/>
+            <circle id="Ellipse_1221" cx="10.5" cy="10.5" r="10.5" class="cls-1" transform="translate(128.554 .057)"/>
+        </g>
+        <circle id="Ellipse_1399" cx="10.5" cy="10.5" r="10.5" class="cls-1" transform="translate(-15639.444 3193.058)"/>
+        <g id="Group_19784" transform="translate(-15676.373 3035.221)">
+            <g id="debit-card">
+                <path id="Path_70041" fill="#e6eaf1" d="M26.031 158.977V63.93A11.945 11.945 0 0 1 38.062 52H26.031A11.945 11.945 0 0 0 14 63.93v95.046a12.117 12.117 0 0 0 12.031 12.131h12.031a12.117 12.117 0 0 1-12.031-12.13z" transform="translate(-11.594 -49.593)"/>
+                <g id="Group_17010">
+                    <path id="Path_70044" d="M178.041 46H22.437A14.368 14.368 0 0 0 8 60.337v95.046a14.539 14.539 0 0 0 14.436 14.538H122.3v-4.812H22.437a9.722 9.722 0 0 1-9.625-9.725v-54.04h20.855a2.406 2.406 0 1 0 0-4.812H12.812V77.281h174.854v19.25H49.708a2.406 2.406 0 1 0 0 4.812h137.958v38.5h4.812V60.337A14.368 14.368 0 0 0 178.041 46zM12.812 72.468V60.337a9.551 9.551 0 0 1 9.625-9.525h155.6a9.551 9.551 0 0 1 9.625 9.525v12.131z" class="cls-3" transform="translate(-8 -46)"/>
+                    <path id="Path_70045" d="M56.237 232a14.237 14.237 0 1 0 0 28.474H84.31a14.237 14.237 0 0 0 0-28.474zm37.5 14.237a9.435 9.435 0 0 1-9.424 9.424H56.237a9.424 9.424 0 1 1 0-18.849H84.31a9.435 9.435 0 0 1 9.424 9.425z" class="cls-3" transform="translate(-28.365 -157.407)"/>
+                    <path id="Path_70046" d="M42.083 138h-.023a2.446 2.446 0 0 0-2.406 2.428 2.377 2.377 0 0 0 2.384 2.395l2.527-.01h.023a2.359 2.359 0 0 0 2.406-2.326 2.42 2.42 0 0 0-2.383-2.446z" class="cls-3" transform="translate(-26.959 -101.156)"/>
+                    <path id="Path_70047" d="M129.916 143.214a2.361 2.361 0 0 0 2.406-2.341 2.463 2.463 0 0 0-2.393-2.484L67.367 138h-.013a2.486 2.486 0 0 0-2.406 2.486 2.4 2.4 0 0 0 2.394 2.412l62.562.316z" class="cls-3" transform="translate(-42.11 -101.155)"/>
+                </g>
+                <path id="Path_70048" fill="#f05e23" d="M330.1 248.733a43.617 43.617 0 1 0 43.616 43.617 43.617 43.617 0 0 0-43.616-43.617zm0 82.42a38.8 38.8 0 1 1 38.8-38.8 38.8 38.8 0 0 1-38.8 38.8z" transform="translate(-174.8 -167.429)"/>
+            </g>
+            <path id="Path_72452" fill="none" stroke="#f05e23" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" d="M119.077 481.852l11.335 10.216 20.417-22.432" transform="translate(19.706 -354.802)"/>
+        </g>
+    </g>
+</svg>

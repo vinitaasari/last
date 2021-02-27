@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.639" height="29.639" viewBox="0 0 29.639 29.639">
+    <defs>
+        <style>
+            .cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_3415" transform="translate(-339 -136)">
+        <g id="Group_2367" transform="translate(17.248 -8.806)">
+            <circle id="Ellipse_624" cx="14.82" cy="14.82" r="14.82" fill="#ffa300" transform="translate(321.752 144.805)"/>
+        </g>
+        <g id="noun_Delete_2025452" transform="translate(338.7 141)">
+            <g id="Group_3179" transform="translate(9.3 3)">
+                <path id="Path_64316" d="M20.183 4.256h-3.139A1.263 1.263 0 0 0 15.788 3h-.837A1.263 1.263 0 0 0 13.7 4.256h-3.144A1.263 1.263 0 0 0 9.3 5.511v.179a.236.236 0 0 0 .239.239H21.17a.236.236 0 0 0 .239-.239v-.179a1.21 1.21 0 0 0-1.226-1.255z" class="cls-2" transform="translate(-9.3 -3)"/>
+                <path id="Path_64317" d="M16.5 37.379a1.263 1.263 0 0 0 1.256 1.256h7.519a1.263 1.263 0 0 0 1.256-1.256V28.2H16.5zm6.114-6.353a.568.568 0 1 1 1.136 0v4.769a.568.568 0 0 1-1.136 0zm-3.334 0a.568.568 0 1 1 1.136 0v4.769a.568.568 0 0 1-1.136 0z" class="cls-2" transform="translate(-15.424 -24.433)"/>
+            </g>
+        </g>
+    </g>
+</svg>

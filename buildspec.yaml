@@ -1,0 +1,36 @@
+version: 0.2
+phases:
+  install:
+    runtime-versions:
+      nodejs: 10
+  pre_build:
+    commands:
+     - export NODE_OPTIONS=--max-old-space-size=16384
+     - npm cache clean --force
+     - touch .env
+     - echo PORT=${PORT} >> .env
+     - echo REACT_APP_ENVIRONMENT_TYPE=${REACT_APP_ENVIRONMENT_TYPE} >> .env
+     - echo REACT_APP_AWS_S3_REGION=${REACT_APP_AWS_S3_REGION} >> .env
+     - echo REACT_APP_LOGIN_TOKEN=${REACT_APP_LOGIN_TOKEN} >> .env
+     - echo REACT_APP_GOOGLE_CLIENT_ID=${REACT_APP_GOOGLE_CLIENT_ID} >> .env
+     - echo REACT_APP_FACEBOOK_APP_ID=${REACT_APP_FACEBOOK_APP_ID} >> .env
+     - echo REACT_APP_STRIPE_KEY=${REACT_APP_STRIPE_KEY} >> .env
+     - cat .env
+     - npm install
+     - npm --version
+     - ls
+  
+  build:
+    commands:  
+      - echo " BUILD STAGE"
+      - npm run build  
+  post_build:
+    commands:
+      - echo "POST BUILD STAGE"
+      - aws s3 cp --recursive --acl public-read ./build s3://${REACT_APP_AWS_DEPLOYMENT_BUCKET}/ 
+      - aws cloudfront create-invalidation --distribution-id=EYVEP5CRYBX06 --paths '/*'
+artifacts:
+  base-directory: build
+  files:
+    - "**/*"
+  discard-paths: no

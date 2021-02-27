@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.469" height="16.863" viewBox="0 0 14.469 16.863">
+  <g id="Group_19767" data-name="Group 19767" transform="translate(-13763.082 7321.73)">
+    <g id="male-gender" transform="translate(13766.556 -7321.73)">
+      <path id="Path_70438" data-name="Path 70438" d="M5.948,0V1.239H8.881L6.7,3.416a4.2,4.2,0,1,0,.876.876L9.757,2.114V5.048H11V0ZM4.2,9.611A2.818,2.818,0,1,1,7.021,6.793,2.818,2.818,0,0,1,4.2,9.611Z" transform="translate(0 0)" fill="#c3c3c3"/>
+    </g>
+    <path id="female-gender" d="M8.814,4.407a4.407,4.407,0,1,0-5.141,4.34v.8H2.2v1.469H3.672v.734H5.141v-.734H6.61V9.548H5.141v-.8A4.41,4.41,0,0,0,8.814,4.407Zm-7.345,0A2.938,2.938,0,1,1,4.407,7.345,2.941,2.941,0,0,1,1.469,4.407Z" transform="translate(13763.082 -7316.619)" fill="#c3c3c3"/>
+  </g>
+</svg>
